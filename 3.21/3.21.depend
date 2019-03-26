@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553135988 source:f:\c++\3.21\shiyan3.c
+
+1553162012 source:f:\c++\3.21\main.cpp
+	<iostream>
+
