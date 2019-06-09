@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1560084535 source:c:\users\asus\desktop\cpp-demo\6.9.2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+
